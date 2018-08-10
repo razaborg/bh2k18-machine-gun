@@ -1,0 +1,15 @@
+https://www.blackhat.com/us-18/briefings/schedule/#so-i-became-a-domain-controller-10188
+https://www.blackhat.com/us-18/briefings/schedule/#exploitation-of-a-modern-smartphone-baseband-10896
+https://www.blackhat.com/us-18/briefings/schedule/#from-thousands-of-hours-to-a-couple-of-minutes-automating-exploit-generation-for-arbitrary-types-of-kernel-vulnerabilities-10389
+https://www.blackhat.com/us-18/briefings/schedule/#god-mode-unlocked---hardware-backdoors-in-x86-cpus-10194
+https://www.blackhat.com/us-18/briefings/schedule/#playback-a-tls-13-story-10192
+https://www.blackhat.com/us-18/briefings/schedule/#deep-dive-into-an-ics-firewall-looking-for-the-fire-hole-10478
+https://www.blackhat.com/us-18/briefings/schedule/#an-attacker-looks-at-docker-approaching-multi-container-applications-9975
+https://www.blackhat.com/us-18/briefings/schedule/#from-workstation-to-domain-admin-why-secure-administration-isnt-secure-and-how-to-fix-it-10148
+https://www.blackhat.com/us-18/briefings/schedule/#breaking-parser-logic-take-your-path-normalization-off-and-pop-0days-out-10346
+https://www.blackhat.com/us-18/briefings/schedule/#why-so-spurious-how-a-highly-error-prone-x86x64-cpu-feature-can-be-abused-to-achieve-local-privilege-escalation-on-many-operating-systems-11196
+https://www.blackhat.com/us-18/briefings/schedule/#edge-side-include-injection-abusing-caching-servers-into-ssrf-and-transparent-session-hijacking-11504
+https://www.blackhat.com/us-18/briefings/schedule/#deep-neural-networks-for-hackers-methods-applications-and-open-source-tools-10295
+https://www.blackhat.com/us-18/briefings/schedule/#new-trends-in-browser-exploitation-attacking-client-side-jit-compilers-11597
+https://www.blackhat.com/us-18/briefings/schedule/#miasm-reverse-engineering-framework-11429
+https://www.blackhat.com/us-18/briefings/schedule/#reversing-a-japanese-wireless-sd-card---from-zero-to-code-execution-10841
