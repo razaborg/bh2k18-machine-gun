@@ -12,7 +12,7 @@ PS : sorry for the name, lack of inspiration... :-D
 The script can be used by providing a file witha list of URL (like *curated_list.txt*) :
 
 ```
-./machine.py -F curated-list.txt --list-talks --resources-only                  [13:02:45]
+./machine.py -F curated-list.txt --list-talks --resources-only
 So I became a Domain Controller
 ---
 Nothing :-(
@@ -35,8 +35,7 @@ source_code : Not available yet.
 ... or can simply query the BH json API :
 
 ```
-./machine.py -F curated-list.txt --list-talks
-./machine.py --list-talks                                                       [13:04:51]
+./machine.py --list-talks
 11956 : Optimistic Dissatisfaction with the Status Quo: Steps We Must Take to Improve Security in Complex Landscapes
 11214 : Measuring the Speed of the Red Queen's Race; Adaption and Evasion in Malware
 10951 : Holding on for Tonight: Addiction in InfoSec
@@ -50,7 +49,7 @@ source_code : Not available yet.
 
 And help you to retrieve the resources associated with the talks :
 ```
-./machine.py --list-talks -r | head                                             [13:05:39]
+./machine.py --list-talks -r
 Optimistic Dissatisfaction with the Status Quo: Steps We Must Take to Improve Security in Complex Landscapes
 ---
 slides : Not available yet.
