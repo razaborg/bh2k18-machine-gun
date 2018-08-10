@@ -43,6 +43,7 @@ if __name__ == '__main__':
                 print(out)
             elif args.resources_only:
                 print(talk['title'])
+                print('---')
                 if talk['files']:
                     for label, url in talk['files'].items():
                         if url['url'] == '':
