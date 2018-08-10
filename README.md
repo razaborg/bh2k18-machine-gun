@@ -4,8 +4,8 @@ The purpose of this script is just to help you gather BH2k18 talks and retrieve 
 
 Aims to be a tiny script for a simple purpose.
 
+Either retrieve all the talks from the BH json api, or can also retrieve specific talks informations from a list or URL (or talks ID).
 
-PS : sorry for the name, lack of inspiration... :-D
 
 ## Examples 
 
