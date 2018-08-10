@@ -1,10 +1,11 @@
-# The BH2k18-machine-gun #w00tw00t
-
+# The BH2k18-machine-gun 
 
 The purpose of this script is just to help you gather BH2k18 talks and retrieve associated infos (description, presentations, code, ...) easily.
 
-
 Aims to be a tiny script for a simple purpose.
+
+
+PS : sorry for the name, lack of inspiration... :-D
 
 ## Examples 
 
